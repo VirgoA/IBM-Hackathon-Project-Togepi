@@ -41,4 +41,4 @@ This section should list any major frameworks that you built your project using.
 * June 2020 - Deployment of the system and providing help but now in real life :)
 
 ## General System Architecture
-![ARCHI](https://lh3.googleusercontent.com/2PXnkyANN7RPksE6DzmPAIipzJEraU-bw2veRoC8zX_-fJyhi_oGFCGPziSL-XUzZRqQUlZLgkijW_HIHuDB3Lfn-atFyTQC5DP7mw8m)
+![ARCHI](https://i.imgur.com/igbS9HC.png)
